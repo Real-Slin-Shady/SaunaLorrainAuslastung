@@ -11,7 +11,7 @@
         "avg": 6.5,
         "min": -2.5,
         "max": 112.5,
-        "count": 373
+        "count": 374
       }
     },
     "1": {
@@ -2031,10 +2031,10 @@
     "Saturday": {
       "0": {
         "Sauna rechts": {
-          "avg": 0.3,
+          "avg": 0.2,
           "min": -2.5,
           "max": 27.5,
-          "count": 54
+          "count": 55
         },
         "Sauna": {
           "avg": 36.9,
