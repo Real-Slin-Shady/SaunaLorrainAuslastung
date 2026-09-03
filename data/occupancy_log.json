@@ -152317,5 +152317,24 @@
     "max_seats": 40,
     "occupancy_percent": -2.5,
     "capacity_message": "Mir si ir summerpouse. | We are on summer break."
+  },
+  {
+    "timestamp": "2026-09-03T13:38:20.078325+02:00",
+    "name": "Sauna rechts",
+    "current_seats": -1,
+    "max_seats": 40,
+    "occupancy_percent": -2.5,
+    "capacity_message": "Mir si ir summerpouse. | We are on summer break.",
+    "weather": {
+      "temperature": 24.4,
+      "apparent_temperature": 24.5,
+      "humidity": 42,
+      "precipitation": 0.0,
+      "weather_code": 2,
+      "weather_description": "Teilweise bew\u00f6lkt | Partly cloudy",
+      "cloud_cover": 50,
+      "is_rainy": false,
+      "is_sunny": false
+    }
   }
 ]
